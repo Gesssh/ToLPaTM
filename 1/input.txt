@@ -1,0 +1,4 @@
+var a, b, c: real;
+d: array [-11..6, -66..-9] of array [0..10] of string[12];
+s1: string;
+s2: string[12];
